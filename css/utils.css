@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Montserrat&family=Roboto&family=Ubuntu&display=swap');
+
+:root{
+    --link: 'Josefin Sans', sans-serif;
+    --para: 'Montserrat', sans-serif;
+    --link2: 'Roboto', sans-serif;
+    --head: 'Ubuntu', sans-serif;
+}
